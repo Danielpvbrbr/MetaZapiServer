@@ -1,3 +1,36 @@
-2022/08/22-18:48:59.901 3918 Reusing MANIFEST D:\Project\METAZAP_ALL\BotMetaZap\.wwebjs_auth\session-bot-metaZap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/22-18:48:59.903 3918 Recovering log #5593
-2022/08/22-18:48:59.956 3918 Reusing old log D:\Project\METAZAP_ALL\BotMetaZap\.wwebjs_auth\session-bot-metaZap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005593.log 
+2022/08/25-17:45:59.085 13d4 Reusing MANIFEST D:\Project\METAZAP_ALL\BotMetaZap\.wwebjs_auth\session-bot-metaZap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/25-17:45:59.095 13d4 Recovering log #5615
+2022/08/25-17:45:59.224 13d4 Reusing old log D:\Project\METAZAP_ALL\BotMetaZap\.wwebjs_auth\session-bot-metaZap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005615.log 
+2022/08/25-17:46:13.321 2940 Level-0 table #5633: started
+2022/08/25-17:46:13.399 2940 Level-0 table #5633: 1321747 bytes OK
+2022/08/25-17:46:13.401 2940 Delete type=0 #5615
+2022/08/25-17:46:13.543 1730 Compacting 1@0 + 1@1 files
+2022/08/25-17:46:13.713 1730 Generated table #5634@0: 19299 keys, 433107 bytes
+2022/08/25-17:46:13.730 1730 Generated table #5635@0: 3343 keys, 317470 bytes
+2022/08/25-17:46:13.757 1730 Generated table #5636@0: 3259 keys, 124331 bytes
+2022/08/25-17:46:13.757 1730 Compacted 1@0 + 1@1 files => 874908 bytes
+2022/08/25-17:46:13.758 1730 compacted to: files[ 0 3 36 0 0 0 0 ]
+2022/08/25-17:46:13.863 1730 Compacting 1@1 + 4@2 files
+2022/08/25-17:46:13.982 1730 Generated table #5637@1: 39912 keys, 2251210 bytes
+2022/08/25-17:46:14.146 1730 Generated table #5638@1: 15762 keys, 2182377 bytes
+2022/08/25-17:46:14.283 1730 Generated table #5639@1: 61057 keys, 2196858 bytes
+2022/08/25-17:46:14.424 1730 Generated table #5640@1: 65689 keys, 1268841 bytes
+2022/08/25-17:46:14.424 1730 Compacted 1@1 + 4@2 files => 7899286 bytes
+2022/08/25-17:46:14.425 1730 compacted to: files[ 0 2 36 0 0 0 0 ]
+2022/08/25-17:46:14.425 1730 Delete type=2 #5618
+2022/08/25-17:46:14.425 1730 Delete type=2 #5620
+2022/08/25-17:46:14.425 1730 Delete type=2 #5621
+2022/08/25-17:46:14.426 1730 Delete type=2 #5622
+2022/08/25-17:46:14.426 1730 Delete type=2 #5623
+2022/08/25-17:46:14.426 1730 Delete type=2 #5633
+2022/08/25-17:46:14.426 1730 Delete type=2 #5636
+2022/08/25-17:46:15.413 22d8 Compacting 1@1 + 6@2 files
+2022/08/25-17:46:15.805 22d8 Generated table #5641@1: 30169 keys, 2266757 bytes
+2022/08/25-17:46:16.062 22d8 Generated table #5642@1: 23835 keys, 2285084 bytes
+2022/08/25-17:46:16.215 22d8 Generated table #5643@1: 24575 keys, 2284158 bytes
+2022/08/25-17:46:16.396 22d8 Generated table #5644@1: 24354 keys, 2285094 bytes
+2022/08/25-17:46:16.559 22d8 Generated table #5645@1: 24140 keys, 2282451 bytes
+2022/08/25-17:46:16.704 22d8 Generated table #5646@1: 24192 keys, 2287308 bytes
+2022/08/25-17:46:16.711 22d8 Generated table #5647@1: 1620 keys, 151267 bytes
+2022/08/25-17:46:16.711 22d8 Compacted 1@1 + 6@2 files => 13842119 bytes
+2022/08/25-17:46:16.713 22d8 compacted to: files[ 0 1 37 0 0 0 0 ]
